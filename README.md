@@ -17,4 +17,4 @@ My interests lie in **machine learning, automation, and building scalable system
 - Pursuing my **Master’s in Data Science** at Indiana University Bloomington.  
 - Exploring projects at the intersection of **technology, business, and healthcare**.  
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sandra-k-chandy-799486287/)) | [Email](mailto:sandrakettidathilchandy@gmail.com)  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sandra-k-chandy-799486287/) | [Email](mailto:sandrakettidathilchandy@gmail.com)  
