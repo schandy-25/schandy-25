@@ -4,7 +4,7 @@ I am a software developer with a background in civil engineering, now pursuing m
 My interests lie in **machine learning, automation, and building scalable systems** that create real-world impact.  
 
 ### 🔹 What I work with  
-- **Languages:** Python, Java, Kotlin, JavaScript  
+- **Languages:** Python, Java, Kotlin, swift ui  
 - **Frameworks & Tools:** Spring Boot, React, Node.js  
 - **Data:** Pandas, NumPy, SQL, PostgreSQL  
 - **Special Interests:** Data Science, AI/ML, Automation  
