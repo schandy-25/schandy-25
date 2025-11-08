@@ -6,7 +6,7 @@ My interests lie in **machine learning, automation, and building scalable system
 ### 🔹 What I work with  
 - **Languages:** Python, Java, Kotlin, swift ui  
 - **Frameworks & Tools:** Spring Boot, React, Node.js  
-- **Data:** Pandas, NumPy, SQL, PostgreSQL  
+- **Data:** Pandas, NumPy, SQL, PostgreSQL , neo4j, mysql, nosql
 - **Special Interests:** Data Science, AI/ML, Automation  
 
 ### 🔹 Experience  
