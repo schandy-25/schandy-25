@@ -1,6 +1,6 @@
 # Hi, I'm Sandra 👋  
 
-I am a software developer with a background in civil engineering, now pursuing my passion for computer science and data science.  
+I am a software developer. Now pursuing my passion for computer science and data science.  
 My interests lie in **machine learning, automation, and building scalable systems** that create real-world impact.  
 
 ### 🔹 What I work with  
